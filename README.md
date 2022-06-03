@@ -1,7 +1,7 @@
 # Weather-App
 
 ## User Story
-
+![image](https://user-images.githubusercontent.com/101163927/171841107-19cd0200-3520-438b-b4a8-649d2a3bb1ad.png)
 ```
 AS A traveler
 I WANT to see the weather outlook for multiple cities
